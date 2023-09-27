@@ -39,8 +39,7 @@ You are required to model the price of houses with the available independent var
 - seaborn - 0.12.2
 - sklearn - 1.3.0
 - statsmodel-0.11.0
-- 
-
+  
 ## Acknowledgements
 - https://www.kaggle.com/
 - https://seaborn.pydata.org/
